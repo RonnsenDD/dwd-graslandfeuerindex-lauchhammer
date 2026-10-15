@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "station": {
+    "name": "Schipkau-Klettwitz",
+    "id": "2627"
+  },
+  "status": "ok",
+  "retrievedAt": "2026-10-15T11:34:46.201Z",
+  "source": {
+    "provider": "Deutscher Wetterdienst (DWD), CDC Open Data",
+    "url": "https://opendata.dwd.de/climate_environment/CDC/derived_germany/fire_danger_index/grassland/forecast/recent/derived_germany_fire_danger_index_grassland_forecast_recent_2627_v2-0--0.csv.gz",
+    "productVersion": "v2-0--0",
+    "dataAsOf": "2026-10-15T04:18:00.000Z",
+    "lastModifiedAt": "2026-10-15T04:20:13.000Z",
+    "license": "CC BY 4.0"
+  },
+  "today": {
+    "date": "2026-10-15",
+    "index": 2
+  },
+  "days": [
+    {
+      "date": "2026-10-15",
+      "index": 2
+    },
+    {
+      "date": "2026-10-16",
+      "index": 2
+    },
+    {
+      "date": "2026-10-17",
+      "index": 2
+    },
+    {
+      "date": "2026-10-18",
+      "index": 1
+    },
+    {
+      "date": "2026-10-19",
+      "index": 2
+    },
+    {
+      "date": "2026-10-20",
+      "index": 2
+    },
+    {
+      "date": "2026-10-21",
+      "index": 2
+    }
+  ]
+}
