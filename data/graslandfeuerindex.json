@@ -5,24 +5,20 @@
     "id": "2627"
   },
   "status": "ok",
-  "retrievedAt": "2026-11-01T11:48:05.215Z",
+  "retrievedAt": "2026-11-02T13:26:57.166Z",
   "source": {
     "provider": "Deutscher Wetterdienst (DWD), CDC Open Data",
     "url": "https://opendata.dwd.de/climate_environment/CDC/derived_germany/fire_danger_index/grassland/forecast/recent/derived_germany_fire_danger_index_grassland_forecast_recent_2627_v2-0--0.csv.gz",
     "productVersion": "v2-0--0",
-    "dataAsOf": "2026-11-01T04:18:00.000Z",
-    "lastModifiedAt": "2026-11-01T04:20:13.000Z",
+    "dataAsOf": "2026-11-02T04:18:00.000Z",
+    "lastModifiedAt": "2026-11-02T04:20:13.000Z",
     "license": "CC BY 4.0"
   },
   "today": {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "index": 1
   },
   "days": [
-    {
-      "date": "2026-11-01",
-      "index": 1
-    },
     {
       "date": "2026-11-02",
       "index": 1
@@ -45,6 +41,10 @@
     },
     {
       "date": "2026-11-07",
+      "index": 1
+    },
+    {
+      "date": "2026-11-08",
       "index": 1
     }
   ]
